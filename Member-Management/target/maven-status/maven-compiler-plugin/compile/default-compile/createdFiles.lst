@@ -1,0 +1,12 @@
+com\cognizant\controller\MemberController.class
+com\cognizant\repository\MemberRepository.class
+com\cognizant\service\MemberService.class
+com\cognizant\exception\MemberNotFoundException.class
+com\cognizant\exception\MemberPhoneAlreadyExistsException.class
+com\cognizant\service\serviceimpl\MemberServiceImpl.class
+com\cognizant\exception\MemberEmailAlreadyExistsException.class
+com\cognizant\MemberManagementApplication.class
+com\cognizant\dto\MemberDTO.class
+com\cognizant\entity\MemberEntity.class
+com\cognizant\config\AppConfig.class
+com\cognizant\exception\InvalidMemberDataException.class
